@@ -20,12 +20,12 @@ class Blockchain:
 
     def register_node(self, address: str) -> None:
         """
-        Add a new node to the list of nodes
+        Add a new node to the list of nodes == 向节点列表中添加一个新节点
         :param address: Address of node. Eg. 'http://192.168.0.5:5000'
         """
 
         parsed_url = urlparse(address)
-        self.nodes.add(parsed_url.netloc)
+        self.nodes.add(parsed_url.netloc)  #.netloc 服务器的位置
 
     def valid_chain(self, chain: List[Dict[str, Any]]) -> bool:
         """
