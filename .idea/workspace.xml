@@ -50,60 +50,9 @@
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../论文/代码/练习/house" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
-  </component>
-  <component name="RunManager" selected="Python.FlowChart">
-    <configuration name="FlowChart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/流程图" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/流程图/FlowChart.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="code" type="PythonConfigurationType" factoryName="Python" singleton="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blockchain.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.FlowChart" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -119,7 +68,7 @@
       <workItem from="1595485486392" duration="1263000" />
       <workItem from="1595487522497" duration="4000" />
       <workItem from="1595487554525" duration="82000" />
-      <workItem from="1595487685241" duration="2686000" />
+      <workItem from="1595487685241" duration="6247000" />
     </task>
     <servers />
   </component>
@@ -156,36 +105,53 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="726" y="229" key="FileChooserDialogImpl" timestamp="1595488948970">
+    <state x="44" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1595518172755">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="726" y="229" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595488948970" />
-    <state width="362" height="148" key="GridCell.Tab.0.bottom" timestamp="1595490319944">
+    <state x="44" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1595518172755" />
+    <state x="843" y="234" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1595517913618">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="362" height="148" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595490319944" />
-    <state width="362" height="148" key="GridCell.Tab.0.center" timestamp="1595490319944">
+    <state x="843" y="234" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1595517913618" />
+    <state x="710" y="251" key="EnvironmentVariablesDialog" timestamp="1595518018505">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="362" height="148" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595490319944" />
-    <state width="362" height="148" key="GridCell.Tab.0.left" timestamp="1595490319944">
+    <state x="710" y="251" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1595518018505" />
+    <state x="303" y="278" width="438" height="489" key="FileChooserDialogImpl" timestamp="1595517910867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="362" height="148" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595490319944" />
-    <state width="362" height="148" key="GridCell.Tab.0.right" timestamp="1595490319944">
+    <state x="303" y="278" width="438" height="489" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595517910867" />
+    <state width="1151" height="10" key="GridCell.Tab.0.bottom" timestamp="1595518272057">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="362" height="148" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595490319944" />
+    <state width="1151" height="10" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595518272057" />
+    <state width="1151" height="10" key="GridCell.Tab.0.center" timestamp="1595518272057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1151" height="10" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595518272057" />
+    <state width="1151" height="10" key="GridCell.Tab.0.left" timestamp="1595518272057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1151" height="10" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595518272057" />
+    <state width="1151" height="10" key="GridCell.Tab.0.right" timestamp="1595518272057">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1151" height="10" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595518272057" />
     <state x="456" y="90" key="SettingsEditor" timestamp="1595489119901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="456" y="90" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1595489119901" />
-    <state x="537" y="159" key="Vcs.Push.Dialog.v2" timestamp="1595490257644">
+    <state x="537" y="159" key="Vcs.Push.Dialog.v2" timestamp="1595518234739">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="537" y="159" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595490257644" />
+    <state x="537" y="159" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1595518234739" />
     <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595490063387">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
